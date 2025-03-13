@@ -234,7 +234,7 @@
 		"@eslint/js": "^9.18.0",
 		"@hey-api/openapi-ts": "^0.61.3",
 		"@open-wc/testing": "^4.0.0",
-		"@playwright/test": "^1.49.1",
+		"@playwright/test": "^1.51.0",
 		"@rollup/plugin-commonjs": "^26.0.3",
 		"@rollup/plugin-json": "^6.1.0",
 		"@rollup/plugin-node-resolve": "^15.3.1",
