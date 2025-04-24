@@ -196,7 +196,7 @@
 		"generate:ui-api-docs": "typedoc --options typedoc.config.js"
 	},
 	"engines": {
-		"node": ">=20.9 <21",
+		"node": ">=20.9 <23",
 		"npm": ">=10.1 < 11"
 	},
 	"dependencies": {
