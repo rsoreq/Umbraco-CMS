@@ -197,7 +197,7 @@
 	},
 	"engines": {
 		"node": ">=20.9 <23",
-		"npm": ">=10.1 < 11"
+		"npm": ">=10.1 < 12"
 	},
 	"dependencies": {
 		"@tiptap/core": "2.11.2",
