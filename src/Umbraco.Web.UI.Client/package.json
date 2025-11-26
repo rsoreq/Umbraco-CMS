@@ -275,7 +275,7 @@
 		"remark-gfm": "^4.0.0",
 		"rollup": "^4.30.1",
 		"rollup-plugin-esbuild": "^6.1.1",
-		"rollup-plugin-import-css": "^3.5.8",
+		"rollup-plugin-import-css": "^4.0.0",
 		"simple-icons": "^14.2.0",
 		"storybook": "^8.4.7",
 		"tiny-glob": "^0.2.9",
