@@ -263,7 +263,7 @@
 		"eslint-plugin-local-rules": "^3.0.2",
 		"eslint-plugin-prettier": "^5.2.1",
 		"eslint-plugin-wc": "^2.2.0",
-		"glob": "^11.0.1",
+		"glob": "^11.1.0",
 		"globals": "^15.14.0",
 		"lucide-static": "^0.471.0",
 		"madge": "^8.0.0",
