@@ -227,7 +227,7 @@
 		"rxjs": "^7.8.1",
 		"tinymce": "^6.8.5",
 		"tinymce-i18n": "^24.12.30",
-		"uuid": "^11.0.5"
+		"uuid": "^13.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.26.0",
