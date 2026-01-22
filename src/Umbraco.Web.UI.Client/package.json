@@ -246,7 +246,7 @@
 		"@storybook/web-components": "^8.4.7",
 		"@storybook/web-components-vite": "^8.4.7",
 		"@types/chai": "^5.0.1",
-		"@types/eslint__js": "^8.42.3",
+		"@types/eslint__js": "^9.0.0",
 		"@types/mocha": "^10.0.10",
 		"@web/dev-server-esbuild": "^1.0.3",
 		"@web/dev-server-import-maps": "^0.2.1",
