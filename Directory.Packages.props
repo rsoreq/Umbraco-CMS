@@ -81,7 +81,7 @@
   <ItemGroup>
     <!-- Microsoft.EntityFrameworkCore.SqlServer and NPoco.SqlServer brings in a vulnerable version of Azure.Identity -->
 	<!-- Take top-level depedendency on Azure.Identity, because Microsoft.EntityFrameworkCore.SqlServer depends on a vulnerable version -->
-    <PackageVersion Include="Azure.Identity" Version="1.13.1" />
+    <PackageVersion Include="Azure.Identity" Version="1.21.0" />
     <!-- Microsoft.EntityFrameworkCore.SqlServer brings in a vulnerable version of System.Runtime.Caching -->
     <PackageVersion Include="System.Runtime.Caching" Version="9.0.0" />
     <!-- Dazinator.Extensions.FileProviders brings in a vulnerable version of System.Net.Http -->
