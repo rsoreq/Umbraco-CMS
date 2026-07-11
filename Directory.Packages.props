@@ -61,7 +61,7 @@
     <PackageVersion Include="OpenIddict.Abstractions" Version="6.0.0-preview3.24551.41" />
     <PackageVersion Include="OpenIddict.AspNetCore" Version="6.0.0-preview3.24551.41" />
     <PackageVersion Include="OpenIddict.EntityFrameworkCore" Version="6.0.0-preview3.24551.41" />
-    <PackageVersion Include="Serilog" Version="4.1.0" />
+    <PackageVersion Include="Serilog" Version="4.4.0" />
     <PackageVersion Include="Serilog.AspNetCore" Version="8.0.3" />
     <PackageVersion Include="Serilog.Enrichers.Process" Version="3.0.0" />
     <PackageVersion Include="Serilog.Enrichers.Thread" Version="4.0.0" />
