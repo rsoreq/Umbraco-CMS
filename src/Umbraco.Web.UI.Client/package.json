@@ -267,7 +267,7 @@
 		"globals": "^15.14.0",
 		"lucide-static": "^0.471.0",
 		"madge": "^8.0.0",
-		"msw": "^1.3.2",
+		"msw": "^2.0.0",
 		"playwright-msw": "^3.0.1",
 		"prettier": "3.4.2",
 		"react": "^18.3.1",
