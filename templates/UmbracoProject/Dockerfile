@@ -1,10 +1,10 @@
-﻿FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
+﻿FROM mcr.microsoft.com/dotnet/aspnet:11.0@sha256:bae0269049d5061ab7f49995cc1acebf54b75471c096c4a1f874e27661d44045 AS base
 USER $APP_UID
 WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
 
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:11.0@sha256:3a9175b6c54b2f076817af1360f691c9994447b192faa48a1a1f112a516844c7 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["UmbracoProject/UmbracoProject.csproj", "UmbracoProject/"]
